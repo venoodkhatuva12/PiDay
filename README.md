@@ -41,15 +41,18 @@ The first infinite sequence discovered in Europe was an infinite product, found 
 **Wallis's Series**
 
 The second infinite sequence, found in Europe by John Wallis in 1655, was also an infinite product:
+
 ![image](https://user-images.githubusercontent.com/4741210/114422237-14b00380-9b84-11eb-9fd3-4582047fed9b.png)
 
-Leibniz's Series
+**Leibniz's Series**
 
 Madhava of Sangamagrama, an Indian mathematician, formulated a series that was rediscovered by Scottish mathematician James Gregory in 1671, and by Leibniz in 1674:
+
 ![image](https://user-images.githubusercontent.com/4741210/114422337-2db8b480-9b84-11eb-925d-c02614c0fb05.png)
 
-Nilakantha's Series
+**Nilakantha's Series**
 An infinite series for π published by Nilakantha, an Indian mathematician, in the 15th century is:
+
 ![image](https://user-images.githubusercontent.com/4741210/114422373-36a98600-9b84-11eb-8655-0959948a1cc1.png)
 
 
