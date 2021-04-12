@@ -24,7 +24,9 @@ But, 22/7 is not exactly right. In fact, π is not equal to the ratio of any two
 Here is π with the first 100 decimal places:
 
 3.14159265358979323846264338327950288
+
 4197169399375105820974944592307816
+
 4062862089986280348253421170679...
 
 **Calculating π**
@@ -57,8 +59,3 @@ Write Python functions to calculate the value of π by using the above series. C
  
 ![image](https://user-images.githubusercontent.com/4741210/114422440-47f29280-9b84-11eb-9c61-02423feb26bd.png)
 
-
-
-
-
-The first infinite sequence discovered in Europe was an infinite product, found by French mathematician François Viète in 1593:
