@@ -36,6 +36,7 @@ Here are a few techniques for calculating π:
 
 **Viete's Series**
 The first infinite sequence discovered in Europe was an infinite product, found by French mathematician François Viète in 1593:
+
 ![image](https://user-images.githubusercontent.com/4741210/114422181-095cd800-9b84-11eb-98a8-945e9a5b36b4.png)
 
 **Wallis's Series**
